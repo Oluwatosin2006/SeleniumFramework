@@ -1,0 +1,106 @@
+19:49:17.811 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:49:17.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:49:17.819 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:49:17.835 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bukad\AppData\Local\Temp\testng-eclipse--523695855\testng-customsuite.xml
+
+19:49:17.876 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+19:49:33.116 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@181b8c4b: 114 ms
+19:49:33.137 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c0e13b7: 20 ms
+19:49:33.156 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@25aeb5ac: 18 ms
+19:49:33.170 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4c58255: 14 ms
+19:49:33.185 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5ea4300e: 15 ms
+19:49:33.186 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5a1c3cb4: 0 ms
+19:50:32.291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bukad\AppData\Local\Temp\testng-eclipse-1338027452\testng-customsuite.xml"
+19:50:32.548 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.550 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:50:32.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.553 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.555 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.559 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.560 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.564 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+19:50:32.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.618 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+19:50:32.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:50:32.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:50:32.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bukad\AppData\Local\Temp\testng-eclipse-1338027452\testng-customsuite.xml
+
+19:50:32.660 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+19:51:16.197 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@11c3ff67: 138 ms
+19:51:16.222 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d499d65: 24 ms
+19:51:16.241 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@303f1234: 19 ms
+19:51:16.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@77c233af: 16 ms
+19:51:16.275 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76464795: 15 ms
+19:51:16.276 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@b34832b: 0 ms
+12:22:09.033 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bukad\OneDrive\Desktop\Projects\SeleniumFramework\listener.xml"
+12:22:14.711 [main] INFO  tests.LoginTest - Initialized driver
+12:22:14.724 [main] INFO  tests.LoginTest - ********* Starting LoginTest*********
+12:22:15.280 [main] INFO  tests.LoginTest - My account is clicked
+12:22:16.717 [main] INFO  tests.LoginTest - Passed
+12:22:16.717 [main] INFO  tests.LoginTest - ********* Finished LandingPageTest*********
+12:22:21.027 [main] INFO  tests.DPLoginTest - ********* Starting LandingPageTest*********
+12:22:22.900 [main] INFO  tests.DPLoginTest - login to application
+12:22:22.964 [main] INFO  tests.DPLoginTest - Successful
+12:22:22.965 [main] INFO  tests.DPLoginTest - ********* Finished LandingPageTest*********
+12:22:27.550 [main] INFO  tests.DPLoginTest - ********* Starting LandingPageTest*********
+12:22:29.014 [main] INFO  tests.DPLoginTest - login to application
+12:22:39.069 [main] INFO  tests.DPLoginTest - validate message is false
+12:22:39.070 [main] INFO  tests.DPLoginTest - ********* Finished LandingPageTest*********
+12:22:43.123 [main] INFO  tests.RegistrationTest - Initialized driver
+12:22:43.124 [main] INFO  tests.RegistrationTest - ********* Starting Registration*********
+12:22:43.210 [main] INFO  tests.RegistrationTest - Clicked on MyAccount Link
+12:22:43.957 [main] INFO  tests.RegistrationTest - Clicked on MyRegister Link
+12:22:43.960 [main] INFO  tests.RegistrationTest - Providing customer details.....
+12:22:44.363 [main] INFO  tests.RegistrationTest - Creating dynamic password.....
+12:22:45.551 [main] INFO  tests.RegistrationTest - Validating expected message
+12:26:30.984 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bukad\OneDrive\Desktop\Projects\SeleniumFramework\testng.xml"
+12:26:31.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bukad\OneDrive\Desktop\Projects\SeleniumFramework\testng.xml
+
+12:26:36.079 [main] INFO  tests.DPLoginTest - ********* Starting LandingPageTest*********
+12:26:37.995 [main] INFO  tests.DPLoginTest - login to application
+12:26:38.049 [main] INFO  tests.DPLoginTest - Successful
+12:26:38.052 [main] INFO  tests.DPLoginTest - ********* Finished LandingPageTest*********
+12:26:42.001 [main] INFO  tests.DPLoginTest - ********* Starting LandingPageTest*********
+12:26:43.278 [main] INFO  tests.DPLoginTest - login to application
+12:26:53.339 [main] INFO  tests.DPLoginTest - validate message is false
+12:26:53.340 [main] INFO  tests.DPLoginTest - ********* Finished LandingPageTest*********
+12:26:57.241 [main] INFO  tests.RegistrationTest - Initialized driver
+12:26:57.243 [main] INFO  tests.RegistrationTest - ********* Starting Registration*********
+12:26:57.323 [main] INFO  tests.RegistrationTest - Clicked on MyAccount Link
+12:26:58.033 [main] INFO  tests.RegistrationTest - Clicked on MyRegister Link
+12:26:58.037 [main] INFO  tests.RegistrationTest - Providing customer details.....
+12:26:58.420 [main] INFO  tests.RegistrationTest - Creating dynamic password.....
+12:26:59.574 [main] INFO  tests.RegistrationTest - Validating expected message
+12:27:03.680 [main] INFO  tests.LoginTest - Initialized driver
+12:27:03.682 [main] INFO  tests.LoginTest - ********* Starting LoginTest*********
+12:27:04.225 [main] INFO  tests.LoginTest - My account is clicked
+12:27:05.677 [main] INFO  tests.LoginTest - Passed
+12:27:05.678 [main] INFO  tests.LoginTest - ********* Finished LandingPageTest*********
+12:27:40.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\bukad\OneDrive\Desktop\Projects\SeleniumFramework\parallel.xml"
+12:27:41.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bukad\OneDrive\Desktop\Projects\SeleniumFramework\parallel.xml
+
+12:27:46.794 [TestNG-tests-1] INFO  tests.LoginTest - Initialized driver
+12:27:46.813 [TestNG-tests-1] INFO  tests.LoginTest - ********* Starting LoginTest*********
+12:27:46.971 [TestNG-tests-2] INFO  tests.DPLoginTest - ********* Starting LandingPageTest*********
